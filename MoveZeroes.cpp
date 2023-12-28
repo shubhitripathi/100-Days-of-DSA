@@ -26,6 +26,3 @@ class Solution {
       nums[i++] = 0;
   }
 };
-
-
-usi
